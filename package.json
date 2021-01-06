@@ -6,7 +6,7 @@
     "acorn": "^6.4.1",
     "apollo-client": "^2.6.8",
     "apollo-client-preset": "^1.0.8",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "canvg-browser": "^1.0.0",
     "graphql": "^14.6.0",
     "graphql-tag": "^2.10.3",
